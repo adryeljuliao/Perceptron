@@ -58,7 +58,7 @@ public class Neuronio {
 
 	}
 
-	
+	 
 	public void setEntradas(int[] entradas) {
 		this.entradas = entradas;
 	}
